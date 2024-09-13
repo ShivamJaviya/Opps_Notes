@@ -28,7 +28,7 @@ This repository is packed with optimized OOP programs, quick learning notes, and
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/oop-optimization.git
+   https://github.com/ShivamJaviya/Opps_Notes.git
    ```
 
 2. **Browse Programs**: Explore the different sections for core OOP topics and placement-focused problems.
